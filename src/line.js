@@ -1,4 +1,4 @@
-exports.line = function lineDefaultTemplate(props) {
+exports.lineDefaultTemplate = function lineDefaultTemplate(props) {
   const parts = [
     props.timestamp ? `[${props.timestamp}]` : '',
     props.label ? `[${props.label}]` : '',
