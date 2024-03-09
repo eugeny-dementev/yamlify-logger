@@ -1,0 +1,20 @@
+{
+  "name": "yamlify-logger",
+  "version": "0.0.1",
+  "description": "Yaml syntax extension to enhance log method of loggers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yaml",
+    "yamlify",
+    "logger",
+    "color",
+    "terminal",
+    "console",
+    "log"
+  ],
+  "author": "Eugeny Dementev",
+  "license": "MIT"
+}
