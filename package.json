@@ -1,6 +1,6 @@
 {
   "name": "yamlify-logger",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
   "description": "Yaml syntax extension to enhance log method of loggers",
   "main": "index.js",
   "scripts": {
