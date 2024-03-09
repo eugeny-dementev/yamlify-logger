@@ -20,5 +20,8 @@
   "dependencies": {
     "yamlify-object": "^2.0.0",
     "yamlify-object-colors": "^1.0.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
