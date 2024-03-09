@@ -16,5 +16,9 @@
     "log"
   ],
   "author": "Eugeny Dementev",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yamlify-object": "^2.0.0",
+    "yamlify-object-colors": "^1.0.3"
+  }
 }
